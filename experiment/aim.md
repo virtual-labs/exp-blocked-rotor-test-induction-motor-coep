@@ -1,1 +1,1 @@
-### Study blocked rotor test on induction motor
+### Aim: Study blocked rotor test on induction motor
