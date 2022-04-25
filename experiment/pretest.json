@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "During blocked-rotor test on a 3-ø IM, the power input to 3-phase IM has to supply",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "ohmic loss and core loss",
+        "b": "core loss",
+        "c": "ohmic loss",
+        "d": "ohmic loss, core loss and friction and winding loss"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The diameter of the circle diagram for a 3-ø IM is given by (V1 = stator phase voltage)",
+      "answers": {
+        "a": "V1/x1",
+        "b": "V1/x2",
+        "c": "V1/(r1+ r2)",
+        "d": "V1/(x1 + x2)"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The approximate value of efficiency of a 3-phase IM running at a slip 's' is given by",
+      "answers": {
+        "a": "(1-s)/(1+s)",
+        "b": "s/(1+s)",
+        "c": "1/(1+s)",
+        "d": "s/(1-s)"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "To improve the power factor of a 3-phase IM, the capacitor bank should be connected in delta to make",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "capacitance calculation easy",
+        "b": "the pf correction more effective",
+        "c": "capacitance value small",
+        "d": "the connection elegant"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A 3-phase induction machine runs at super synchronous speed. For self-excitation, the machine",
+      "answers": {
+        "a": "draws real power from the mains",
+        "b": "draws reactive from the mains",
+        "c": "feeds reactive power to the mains",
+        "d": "generates emf at the expense of residual magnetism"
+      },
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
