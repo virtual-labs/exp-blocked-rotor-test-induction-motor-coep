@@ -2,37 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A 3-phase, star-connected SRIM is fed from 400 V, 50 Hz source. Stator to rotor effective turns ratio is 2. At a rotor speed of 1440 rpm, the rotor induced emf per phase would be",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "4.62 V",
+        "b": "46.2 V",
+        "c": "8.0 V",
+        "d": "9.24 V"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "When the supply voltage to a 3-phase SCIM is reduced by 20%, the maximum torque will decrease by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "10%",
+        "b": "20%",
+        "c": "36%",
+        "d": "40%"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Starting torque of a 3-phase IM varies as",
+      "answers": {
+        "a": "f",
+        "b": "1/f",
+        "c": "1/f^2",
+        "d": "1/f^3"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Maximum torque in a 3-phase IM varies as",
+      "answers": {
+        "a": "f",
+        "b": "1/f^2",
+        "c": "1/f",
+        "d": "1/f^3"
+      },
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

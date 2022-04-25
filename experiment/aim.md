@@ -1,1 +1,1 @@
-### Aim of the experiment
+### Study blocked rotor test on induction motor
